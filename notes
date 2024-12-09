@@ -1,0 +1,7 @@
+Packages to install
+1. Streamlit
+2. pillow
+3. ultralytics
+4. Openc
+while deploying everything went well, due to opencv package was not included in erquirements, the deployment failed
+including pyhon version in the requirments
